@@ -16,6 +16,7 @@ This is a template to make a Discord.py bot
 I added a default bot cmd "!hello" and the ouput would be a gif.
 
 to add new cmds, use this format: 
+
 ``if message.content.startswith('{trigger word with included prefix}'):
     await message.channel.send('{output}')``
     
