@@ -4,7 +4,7 @@ This is a template to make a Discord.py bot
 #How to use
 (these instructions only help for people using http://replit.com)
 
-1.open https://discord,com/developers/applications
+1.open https://discord.com/developers/applications
 
 2. make a new application
 
