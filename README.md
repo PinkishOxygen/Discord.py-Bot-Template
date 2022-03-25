@@ -36,4 +36,5 @@ to add new cmds, use this format:
 
 # Credits
 most if not all the credits go to https://discordpy.readthedocs.io/en/stable/
+
 another part of the credits go to https://github.com/SilverAidan for making the original template I used.
