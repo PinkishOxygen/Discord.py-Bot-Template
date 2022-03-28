@@ -26,8 +26,8 @@ I added a default bot cmd "!hello" and the ouput would be a gif.
 
 to add new cmds, use this format: 
 
-``if message.content.startswith('{trigger word with included prefix}'):
-      await message.channel.send('{output}')``
+``if message.content.startswith('trigger word with included prefix'):
+      await message.channel.send('output')``
     
     
 10. invite the bot to the desired server by going to the OAuth2 section on the discord developer tab, go to url generator and select 'bot' and 'administrator'.
